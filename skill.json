@@ -1,0 +1,23 @@
+{
+  "name": "genpark-personal-agent-cutaneous-suction-blister-dermal-epidermal-junction-skill",
+  "version": "1.0.0",
+  "description": "Calculates Suction Blister Formation Time (SBFT in minutes) and Dermo-Epidermal Junction Adherence Index (DEJ-AI) to evaluate basement membrane zone structural integrity.",
+  "author": "GenPark Ecosystem",
+  "license": "Apache-2.0",
+  "keywords": [
+    "personal-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "dermatology",
+    "suction-blister",
+    "sbft",
+    "dej",
+    "basement-membrane",
+    "anchoring-fibrils",
+    "zero-dependency"
+  ],
+  "main": "client.py",
+  "mcp_server": "mcp_server.py"
+}
